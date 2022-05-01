@@ -13,4 +13,4 @@
   - A Python notebook dedicated to EDA and data cleaning (Project Cleaning.ipynb), returning a Cleanproject.csv
   - A Python notebook dedicated to Machine Learning & Prediction Model (Predictive Model.ipynb)
 
-:computer: **Software & programming languages** : MySQL, Tableau Desktop, Python *(Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, XGBRegressor)
+:computer: **Software & programming languages** : MySQL, Tableau Desktop, Python *(Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, XGBRegressor)*
