@@ -1,7 +1,7 @@
 # Bootcamp-Data-Project
 ### Data project realized for Jedha 'Data Analysis' Bootcamp (09-2021)
 
-:dart: **Objective** : perform an Exploratory Data Analysis and create a Predictive Model to provide insights and respond a given Business problem.
+:dart: **Objective** : perform an Exploratory Data Analysis and create a Predictive Model to provide insights and respond a given Business problem
 
 :video_game: **Theme** : Video Games sales from 1990 to 2017, based on region, ESRB rating and press/users notation
 
@@ -13,4 +13,4 @@
   - A Python notebook dedicated to EDA and data cleaning (Project Cleaning.ipynb), returning a Cleanproject.csv
   - A Python notebook dedicated to Machine Learning & Prediction Model (Predictive Model.ipynb)
 
-:computer: **Software & programming languages** : MySQL, Tableau Desktop, Python (Pandas, Numpy, Matplotlib, Seaborn, XGBRegressor
+:computer: **Software & programming languages** : MySQL, Tableau Desktop, Python *(Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, XGBRegressor)
