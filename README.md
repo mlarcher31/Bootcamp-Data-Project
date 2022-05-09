@@ -3,7 +3,7 @@
 
 :dart: **Objective** : perform an Exploratory Data Analysis and create a Predictive Model to provide valuable insights and answer to a given Business problem
 
-:video_game: **Theme** : Video Games sales from 1990 to 2017, based on region, ESRB rating and press/users notation
+:video_game: **Theme** : Video Games sales from 1990 to 2017, based on region, ESRB ratings and press/users notations
 
 :speech_balloon: **Language** : French
 
