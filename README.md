@@ -1,7 +1,7 @@
 # Bootcamp-Data-Project
 ### Data project realized for Jedha 'Data Analysis' Bootcamp (09-2021)
 
-:dart: **Objective** : perform an Exploratory Data Analysis and create a Predictive Model to provide insights and answer to a given Business problem
+:dart: **Objective** : perform an Exploratory Data Analysis and create a Predictive Model to provide valuable insights and answer to a given Business problem
 
 :video_game: **Theme** : Video Games sales from 1990 to 2017, based on region, ESRB rating and press/users notation
 
